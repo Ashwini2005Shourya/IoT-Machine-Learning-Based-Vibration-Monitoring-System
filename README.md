@@ -41,7 +41,7 @@ The project addresses industrial equipment reliability by monitoring mechanical 
   * Develop the firmware script (`.ino`) to read stable 3-axis accelerometer data streams.
   * Program synthetic variance models to simulate "Normal Operational Harmonics" vs. "Mechanical Structural Faults".
   * Stream and export sensor data arrays to localized `.csv` files for baseline dataset creation.
-  * *Status:* 🟨 **In Progress**
+  * *Status:* 🟩 **Complete**
 
 ### Week 3: Machine Learning Pipeline & Feature Extraction (July 24 – July 30)
 * **Focus:** Statistical processing and model training.
@@ -83,11 +83,18 @@ The project addresses industrial equipment reliability by monitoring mechanical 
 
 ---
 
-## 🚀 How to Run the Environment (Initial Setup)
-1. Clone this repository to your local directory.
-2. Navigate to the `firmware/` directory to inspect the core peripheral configuration files.
-3. Access the `simulation/` directory to open the Wokwi project schema mapping link.
-4. *Detailed software execution steps will be populated as firmware modules deploy in Week 2.*
+## 🚀 How to Run the Environment
+1. **Clone this repository** to your local machine:
+   ```bash
+   git clone https://github.com
+   ```
+   
+2. **Launch the Live Simulation:** Open my custom [Wokwi Smart Simulation Link](https://wokwi.com/projects/470178933386555393) directly in your   browser.
+
+3. **Inspect Firmware:** Navigate to the `wokwi_simulation_files/` folder to check `sketch.ino`.
+
+4. *Detailed data processing and ML pipeline commands will be populated next as Week 3 milestones deploy.*
+
 
 ---
 *Developed as part of the formal internship evaluation requirements at HEC Lim.*
