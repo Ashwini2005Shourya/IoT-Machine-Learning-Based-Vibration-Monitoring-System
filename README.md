@@ -50,7 +50,7 @@ The project addresses industrial equipment reliability by monitoring mechanical 
   * Train and evaluate classification algorithms (e.g., Random Forest, Isolation Forest, or SVM) via Scikit-Learn.
   * Validate performance using confusion matrices, precision-recall curves, and F1-scores.
   * Export the finalized high-accuracy model weights.
-  * *Status:* ⬜ **Pending**
+  * *Status:* 🟩 **Complete**
 
 ### Week 4: System Integration, Edge Alerts & Final Evaluation (July 31 – August 9)
 * **Focus:** Hardware-software convergence and validation reporting.
