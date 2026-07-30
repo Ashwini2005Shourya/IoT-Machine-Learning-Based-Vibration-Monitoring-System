@@ -1,4 +1,4 @@
-System Ready. Send 'F' to simulate Fault, 'N' for Normal.
+
 864,-0.41,0.25,9.57,0
 920,-0.22,0.33,9.69,0
 976,0.48,0.16,9.71,0
@@ -1106,7 +1106,6 @@ System Ready. Send 'F' to simulate Fault, 'N' for Normal.
 62568,0.44,0.27,9.81,0
 62623,-0.40,0.32,9.47,0
 62679,-0.44,0.09,9.86,0
-# STATUS: SIMULATING FAULTY STATE (HIGH VIBRATION) #
 62735,0.25,-3.36,9.29,1
 62791,2.03,-1.58,6.29,1
 62847,-3.93,-2.09,7.66,1
